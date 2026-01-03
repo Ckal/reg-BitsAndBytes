@@ -1,0 +1,721 @@
+﻿Christof Kaller
+  
+
+
+
+E-Mail        Christof.Kaller@gmail.com                        
+
+
+Geburtsdatum        19.03.1980
+Zivilstand        verheiratet, zwei Kinder 
+Staatsangehörigkeit        deutsch
+Führerschein        Klasse 3
+
+
+
+
+KURZPORTRAIT
+Engagierter IT-Manager und Consultant mit fundierter Expertise in der strategischen IT-Planung und konsequenten Implementierung von E-Commerce-Projekten. Fundierte Kenntnisse in modernen Methoden der Softwareentwicklung, einschließlich Scrum und Kanban gepaart mit einem profunden Interesse an Machine-Learning-Lösungen. Erfolgreich im Management von Dienstleistern und in der effektiven Priorisierung von Tagesaufgaben. Kompetent in der Kommunikation und Beratung von Fachbereichen, mit Fokus auf Transparenz und Effizienz. Erfolgreiche Führungs- und Ausbilderqualitäten, unter Beweis gestellt durch die Ausbildung von Auszubildenden und Mitarbeitern.
+Interessenschwerpunkte: KI, E-Commerce, Mobile Kommunikation. 
+Wille, Höchstleistung zu vollbringen, Führungsverantwortung zu übernehmen sowie persönliches Engagement mit „hands-on“-Mentalität zum Nutzen und zur Weiterentwicklung des Unternehmens und seiner Mitarbeiter/-innen ist ausgeprägt vorhanden.
+
+
+________________
+
+
+BERUFSERFAHRUNG – BRANCHEN – SCHWERPUNKTE – TÄTIGKEITEN 
+Zusammenfassung: Erfahrungen in der Informatik durch Studium und Praxis seit 2008
+Branchenerfahrung        Direktvertrieb, Handel (B2B, B2C),  Software/ IT, Öffentlicher Dienst, Telekommunikation, Versicherungen, Gesundheitswesen, Finanzen, Industrie (Stahl).
+Schwerpunkte        E-Commerce, Projektmanagement, Projektleitung, Steuerung von Dienstleistern, Budgetkontrolle, Schaffung von Transparenz und Struktur, Planung, Steuerung, Kontrolle, Analyse, Konzeption, Architekturen, Integration, Application Development. Scrum, Agile, Pro3. Oracle, Java / J2EE, SAP Hybris, Cross Platform Mobile, Jira, Confluence, MS- Windows/Office
+Zusammenfassung: Erfahrungen durch Tätigkeiten als Festangestellter
+08/2018 – heute        Bofrost*, Straelen                                  PM, PO, PL, Architekt, Berater, Ausbilder
+(Branche: Direktvertrieb Eis und Tiefkühl-Lebensmittel, E-Commerce) 
+* Stellv. Abteilungsleitung IT- E-Commerce
+* Projektleiter (Neue Mobile App / Middle Layer)
+* Projektleiter (Einführung CDN)
+* Projektleiter (SAP CCV_2 Cloud Migration) 
+* IT-PO: Priorisierung, Planung und Steuerung von Dienstleistern
+* Bewerbergespräche
+* Ausbilder eines Auszubildenden (erfolgreich abgeschlossen)
+* Planung, Strukturierung und Konzeption der Bedarfe
+* Budgetverantwortung und Kontrolle
+* Schaffung von Transparenz, Überwachung und Kontrolle der Aufwände
+* Dienstleister Gespräche 
+* Gestaltung von z.B. Kick-Off Veranstaltungen
+* Beratende Unterstützung der Fachbereiche 
+* Begleiten von Security Audits
+* Pro3 / Scrum Entwicklung / Einführung
+* Erstes Mitglied der Abteilung IT-E-Commerce
+* Mitglied seit der ersten Stunde im Architektur Board bofrost*
+* Weitere Details siehe Projektliste
+04/2018 – 07/2018        Europaschule, Rheinberg                                                                                   Lehrer 
+(Branchen: Öffentlicher Dienst, Schule, Bildung) 
+* Unterrichtsvorbereitung und Durchführung (Klassen 5-10: Mathematik, Informatik)
+* IT Pflege arbeiten
+* Notenvergabe
+05/2017 – 01/2018        Cassini Consulting AG, Düsseldorf                                            Managementberater
+(Branchen: Managementberatung, Telekommunikation, E-Commerce/ Dienstleister) 
+* Steuerung von Dritt-Dienstleistern
+* Aufwandschätzung 
+* Konzeption
+* Erstellung eines POC/API zur Generierung von PDF Dokumenten 
+* Analyse erweitern um sinnvolle Logs und Korrektur von Bugs 
+* Mitwirkung und Beratung in Kick-Off Veranstaltungen
+* Scrum Entwicklung
+* Analyse einer vorhandenen SAP Landschaft durch Rekonstruktion
+* Weitere Details siehe Projektliste
+05/2015 – 03/2017        KPS AG (getit GmbH), Dortmund                                             Berater / Entwickler
+(Branchen: IT-Dienstleister, E-Commerce) 
+* Migration und Fortführung eines Omni-Channel Projekts auf Basis von SAP Hybris in über 40 Ländern
+* Aufwandsschätzung
+* Konzeption
+* Erstellung von APIs zur Anbindung von Externen Systemen 
+* Korrektur von Bugs und Implementierung neuer Features
+* Support, Qualitätssicherung, Testvorbereitung und Test 
+* Mitwirkung und Beratung in Kick-Off Veranstaltungen
+* Scrum und Kanban Entwicklung
+* Weitere Details siehe Projektliste
+02/2011 – 04/2015        MT AG, Ratingen                                                        Analyst / Berater / Entwickler
+(Branchen: E-Commerce, IT-Dienstleister, Telekommunikation, (Stahl-) Industrie, Öffentlicher Dienst, Finanzwesen)
+* Erstellung von Schulungen, halten von Präsentationen. Teilnahmen an der DOAG und Communities
+* Migration und Fortführung eines Projekts auf Basis von Oracle ADF
+* Sales-Support (Beratung, Prototyping, Anforderungsanalyse & Aufwandsabschätzung) 
+* Entwicklung von Service-Tools zur Analyse und Bearbeitung von Funktionen auf SIM-Karten sowie Erstellung mobiler Clients auf PhoneGap Basis zur Bestimmung der Netzqualität unter wechselnden Bedingungen – Realisierung aller Projektphasen  
+* Analyse, Beratung und Entwicklung eines Prototyps sowie Migration auf der Basis von Oracle ADF; betroffen sind 110.000 Arbeitsplätze einer Bundesagentur; als Ergebnis meiner Analysen, Bewertungen und meiner Aufwandsabschätzung steht ein Projekt mit einem Volumen von mehreren Mannjahren und der besonderen Herausforderung einer gewünschten Anbindung vorhandener Legacy Systeme und Datenbanken an
+* Ad-hoc Projekt: Bug Fixes, Migration auf Basis eines MT AG Produktes (MT GO) unter Verwendung des J2EE Framework mit Anbindung von Liferay (& JBoss) bei einer Sparkasse; die besondere Herausforderung waren ein historisch bedingter, nicht dokumentierter Ursprung ständig veränderter (neuer) Anforderungen, Ressourcenmangel, mangelhafte Kommunikation und ein schwieriger Migrationspfad 
+* Realisierung und Teil-Projektverantwortung (-leitung) bei einem Kunden der Stahlbranche für dessen Niederlassung in den USA. Hauptaufgabe: Analyse, Beratung (incl. Zielplanung & Aufwandsabschätzung) und Entwicklung einer Web-Anwendung auf der Basis von J2EE (Auftragsverfolgung, Archivierung von Qualitätsmerkmalen, Digitalisierung von Materialabrufen) sowie eine Migration von OC4j nach WebLogic. 
+* Halten von Oracle ADF Projekt Sessions und ADF Mobile Training zur Einführung und Unterstützung neuer Projektmitarbeiter und Aufbau einer neuen Infrastruktur (WebLogic Server, SVN Server und Artifactory) im Hause eines IT-Dienstleisters
+* Business Analyse & Nutzen Untersuchung verschiedener Frameworks und Techniken
+* Repräsentant der MT AG und aktive Mitarbeit in der Oracle-ADF-Community
+* Weitere Details siehe Projektliste
+
+
+
+
+10/2009 – 01/2011        d.velop AG, Gescher            Analyst / Bachelorand / Wiss. Hilfskraft / Team Lead
+        (Begleitend / Nach dem Studium)
+* Erste Erfahrungen in der Realisierung von Teamleitungs- & Projektleitungsaufgaben
+* Effizienz- und Zuverlässigkeitsprüfung von Frameworks (FW)
+* Untersuchung und Bewertung div. FWs und Techniken (T)
+* Entwicklung und Testen von Tools /T und FW (z.B. Lucene, Hibernate Search)
+* Entwicklung von Prototypen 
+* Datenerfassung & Analyse Cross Plattform Anwendungsentwicklung für mobile Endgeräte
+* Erstellung einer Abstraktionsschicht – Schnittstellen zu GWT
+* Entwicklung einer Semantischen Lesehilfe (Anwendung in einem Ticketsystem)
+* Ableistung des Praxissemesters; freiwillige Verlängerungen für weitere Projekttätigkeiten
+* Weitere Details siehe Projektliste
+
+
+09/2008 – 09/2010        FH Gelsenkirchen, Bocholt                             Wiss. Hilfskraft / Analyst / Entwickler
+        (Begleitend zum Studium bei Herrn Prof. Convent)
+         Analysieren: Kryptische Elliptische Kurven (KEK) einschließlich der 
+        Analyse der Techniken und grundlegende Implementierung des Verfahrens zu
+         Verschlüsselung von Daten 
+* Teamleitung und Projektverantwortung verschiedener Aktivitäten bei d.velop AG
+* Weitere Details siehe Projektliste
+
+
+________________
+
+
+AUS- UND WEITERBILDUNG
+2008 - 2010        Wirtschaftsinformatik an der FH Gelsenkirchen (Abt. Bocholt)
+        Wirtschaftsinformatik, Bachelor of Science - Thema der Bachelorarbeit: 
+        „Cross-Plattform Entwicklung für Smartphones anhand von PhoneGap und GWT“ (Note 1,8)
+* Studienabschluss: good (2,7)
+* Studienschwerpunkte: Geschäftsprozessmanagement, Betriebliche Standardsoftware 
+und Informationssysteme, Softwaretechnik, Datenbanken sowie Applikationsentwicklung
+2001 - 2008        Universität Duisburg Essen
+        Informatik (ohne Abschluss); Anerkennung div. Scheine und Leistungsnachweise        
+2000 - 2001        Wehrdienst bei der Luftwaffe im Servicebereich
+        Standorte: Budel / Niederlande und Kalkar / Deutschland
+1998 -2000        Gymnasium Lise Meitner, Geldern
+        Abitur
+1986 -1998        International AFCENT School Brunssum / Niederlande 
+        Versetzt zum Gymnasium in Deutschland 
+
+
+
+
+KURSE - ZERTIFIKATE
+
+
+2018         (Projekt-) Managementmethode Pro3 
+2015         Netbaser Präsentationsschulung
+2015         Schulung im Bereich SAP Hybris
+2014         Lissabon Oracle ADF mobile Hackathon
+2012        Oracle ADF Advanced Schulung (Schweden /Stockholm)
+2011        Oracle ADF Schulung Düsseldorf
+1996 / 1997        Jugendrat Stadt Tongeren & Provinz Nord-Belgien
+        Aus- & Weiterbildung zum Jugendgruppenleiter KSA Sint – Jan 
+        (Besonderheit: Jugendarbeit für Kinder belgischer Eltern) 
+1995 / 1996        International AFCENT School / Nederland
+        First Certificate Cambridge English
+1994        International AFCENT School / Nederland
+Member of
+* Harvard Model Congress Europe (HMCE)
+* Modern International Parliament (MIP) 
+* Model NATO (MOD-N)
+
+
+
+
+Publikationen und öffentliche Auftritte
+
+
+2017        DOAG Logisch: JavaScript Pattern, oder?
+2017        DOAG JavaScript Formular Sniffer Injection
+2013        DOAG 3 Wochenenden Strohwitwer        
+2011        DOAG Hybride mobile Applikationen mit ADF & PhoneGap        
+2010-2014        ADF-Reihe (Projekt-Sessions)
+2010-2014        ADF-News Sessions Düsseldorf; Frankfurt, Berlin 
+2010-2014        ADF Buch (Rich Internet Applications)         
+2013                Kursleiter Campus Woche- Mobile Hybride         Applikationen        FH – Bocholt 
+
+
+PRAKTIKA
+
+
+2009        Programmierung und Support (drei Monate), d.velop, Gescher
+2001        Strategie Mehrwertdienste (drei Monate), Deutschen Telekom, Bonn
+2000        Sales (drei Monate), debis Systemhaus, Düsseldorf 
+
+
+
+
+AUSBILDUNGSBEGLEITENDE TÄTIGKEITEN (begleitend zur Schule)
+
+
+1996 - 1998        Jugendgruppenleiter, KSA Sint - Jan, Tongeren / B
+1995 - 1997                Ratsmitglied Jugendring, Stadt Tongeren / B und Provinz Noord Limburg / B
+1995 - 1997        Ausbilder Internet Education, Cyberdome, Tongeren / B
+
+
+
+
+STUDIENBEGLEITENDE TÄTIGKEITEN (zur Finanzierung des Studiums)
+
+
+2008 - 2010        Entwicklung, Beratung und Support, d.velop AG, Gescher
+1998 - 2008        Servicemitarbeiter in der Gaststätte einer Familienbrauerei, Issum
+
+
+
+
+SPRACHEN
+
+
+Deutsch         Muttersprache
+Englisch        Fließend in Wort und Schrift; viele Jahre in der Praxis erprobt und First Certificate Cambridge (FCC)
+Niederländisch / Flämisch         Sehr gut im mündlichen Sprachgebrauch; jahrelang erprobt in der täglichen Kommunikation in BE und in den NL
+Französisch         Schulkenntnisse
+
+
+
+
+HOBBIES
+
+
+KI, Joggen, Sauna, PC/ Internet, Literatur
+
+
+
+
+REFERENZEN
+
+
+Gerne auf Anfrage
+________________
+
+
+SUMMARY: IT – ERFAHRUNG UND PROJEKTE
+
+
+IT-Methoden und Betriebssysteme
+Methoden
+	Domain Driven Design, Scrum, Pro3, Kanban, V. Modell, Wasserfall, Fachkonzepte, UML: Sequenzdiagramme, Use Case Diagramme, Klassendiagramme, Komponentendiagramme, Zustandsautomaten, ERM, EPK; Design Patterns: MVP, MVC, Observer Pattern, Singleton, Facade; Vorgehensweisen: OOA, OOD
+	Betriebssysteme
+	DOS, Windows 3.11, Windows NT, Windows 2000, Windows XP, 
+Windows Vista, Backtrack, MSF, Linux 6,7 , Mac OS 10, 
+Windows 7,8,10,11  Debian Wheezy, Ubuntu 10-18, Linux Mint, Oracle VM, Docker
+	
+
+
+
+Technik Übersicht
+Programmier- & Skriptsprachen
+	Java, J2EE, Eclipse RCP (SWT), JSP, JSF, (X)HTML(5), XML, SQL, PL/SQL, JavaScript, CSS(3), batch, C, Basic, Pascal, Logo, Smartcard I/O API, React, Python
+	Entwicklungsumgebungen (IDEs)
+	Eclipse, JDeveloper, SQL Developer, Netbeans, Aptana, Visual Rules,
+Visual Studio, Xcode, Dashcode, IntelliJ, Notepad++, Visio, Enterprise Architect, Google Actions, Google Notebooks
+	Frameworks
+	Hugging Face, J2EE, SAP Hybris, Oracle ADF (mobile), Struts, Hibernate, JPA, - Tiles, Log4j, Maven, jQuery (mobile), node.js, Struts, Tiles, iText, XSLT, POI, JUnit, Lucene, Smartcard I/O API, PhoneGap, Titanium, FindBugs, GWT, Axis, Hibernate Search, Android SDK, Blackberry, Nokia, WRT, Windows Mobile, VPD, DialogFlow
+	Tools
+	Confluence, Jira, HP Quality Center, Putty, VMware RDP, Virtual Box, True Crypt, Skype, SAP, Wireshark, Project Manager, (Open) Office, IE, Firefox, Chrome, Opera, Thunderbird, FreeNas (Synology), Wikiwik, Moodle, Joomla,  MS Office (Power Point, Excel, Access, Outlook, Word, Visio),  MindManager, Ant, Maven, FindBugs, Subversion SVN, Git Hub, Firebug, CVS, WinSCP, putty, PingDom, OWASP ZAP, Jenkins, Google Assistant, Elastic, Logstash, Kibana, Smartforms
+	Datenbanken
+	MySQL, Oracle, MS, SQL Server, Derby, HDBSQL, Corba 
+	Applikationsserver
+	WebLogic, OC4J, GAE, Xampp - Apache Tomcat, JBoss 
+	Cloud
+	Google Cloud (GCP), SAP Commerce Cloud
+	Portale
+	Oracle ATG, WebCenter, Liferay, SharePoint, SAP Dashboards
+	Netzwerke
+	RMI, WS, Sockets, Telnet, ftp, http, IRC, Corba, IDL2java, Smartcard I/O
+	
+
+
+
+
+
+PROJEKTLISTE
+
+
+Direktvertrieb /                       E-Commerce
+08/2018 - heute
+	Senior Projekt Manager – Online Shop                                                     bofrost*
+Für das international tätige Familienunternehmen bofrost* (Direktvertrieb Eis und Tiefkühlkost), in der Domäne Online Channels - E-Commerce Shop, auf Basis von SAP Hybris, lagen meine Aufgabenschwerpunkte in Planung, Priorisierung, Steuerung und Kontrolle.
+Meine Tätigkeiten umfassen:
+* Stellvertretender Abteilungsleiter IT- Ecom 
+* Prüfung von Rechnungen
+* Bewerbergespräche - Auswahl von und Teilnahme an 
+* Ausbilden eines Azubis
+* Aushänge an der FH / Gespräche mit Profs wegen studentischen HK
+* Auswahl/ Gespräche mit diversen Anbietern verschiedener Features (Security, Mailing, Cookies, Payment)
+* Steuerung von Dienstleistern
+* Priorisierung von Tickets und Themen
+* Beratung verschiedener Fachbereiche bei verschiedenen IT-Themen
+* Erstellen von Tickets und Fachkonzepten
+* Konzeption/ Einführung von neuen Funktionen mit dem Fachbereich und Drittdienstleistern
+* Aufwandsschätzungen
+* Führen von Service Gesprächen
+* Dokumentation und Transparenz
+* Überprüfen der Ergebnisse (Soll/Ist)
+* Einführung von Scrum
+* Begleiten von Security Audits des Shops (Planung, Durchführen, Beheben)
+* Analyse / Bereitstellen von Kennzahlen
+* Transformation von einer On-Premise zu einer Google Cloud Lösung
+* „Um“-Sourcing zu einem anderen Nearshore IT Dienstleistern / Übergabe des Shop Projekts an neue Dienstleister (KT - Knowledge Transfer)
+* AFM - Board
+* Architektur – Prinzipien (Pull Prinzip, Security First, FB driven, …)
+* Architektur - Domain Modelle (Interdisziplinäre Teams)
+* Architektur – Systemlandschaft (Integration)
+
+
+Besonders spannend waren die Arbeit und Absprache mit internen Fachbereichen und externen Anbietern sowie der Wechsel des IT- Dienstleisters (Jena-> Rumänien) und der Umzug von einer On-Premise-Lösung in die Cloud. Eine besondere Herausforderung stellte der Wechsel des IT-Dienstleistern, die Kommunikation sowie Steuerung der Dienstleister dar.
+
+
+(Erfahrungsgewinn: Bewerbergespräche. Pro3, Priorisierung, Dokumentation, Beratung / Steuerung von Mitarbeitern verschiedener Bereiche, Gespräche und Auswahl von Anbietern, Budgetkontrolle, Nein-Sagen).
+	Direktvertrieb /                       E-Commerce 
+03/2022 – heute
+	Tagesgeschäft –  React based Mobile Application                                    bofrost*
+Für das international tätige Familienunternehmen bofrost* (Direktvertrieb Eis und Tiefkühlkost), in der Domäne Online Channels - E-Commerce Shop, technische IT Leitung und Koordination der neuen Mobile Anwendung und des Middle Layer.
+Meine Tätigkeiten umfassen:
+
+
+* Technische Beratung, Konzept und Planung, Schaffung von Transparenz
+* Festlegen der Architektur
+* Steuerung der Dienstleister, Kontrolle der Ziele
+* Begleiten/ Halten von Scrum Events
+* Berichten ans Management
+* kleinere Domänenübergreifende Projekte
+
+
+Besonders herausfordernd ist die Arbeit und Koordination mit vier (und mehr) verschiedenen Teams aus etlichen Ländern und Absprachen mit internationalen Business Bereichen. Eine besondere Herausforderung sind die geringen Ressourcen und die Kommunikation, Steuerung der Projektbeteiligten.
+
+
+(Erfahrungsgewinn: Integration in weitere Backend Systeme, Steuerung und Koordination verschiedener Teams verschiedener Bereiche, Bofrost Rebranding, GCP Cloud, React Native).
+
+
+	Direktvertrieb /                       E-Commerce 
+06/2021 – 03/2022
+	Projektleitung –  React based Mobile Application and Middle Layer   bofrost*
+Für das international tätige Familienunternehmen bofrost* (Direktvertrieb Eis und Tiefkühlkost), in der Domäne Online Channels - E-Commerce Shop, Projektleitung und Koordination einer neuen Mobile Anwendung und Einführung eines Middle Layer, welches ein Projektbudget mit ca. 2.1 Mio. veranschlagt.
+Meine Tätigkeiten umfassten:
+
+
+* Unterstützung der Ext. bei  Projektsteckbrief / Projektantrag
+* Konzept und Planung
+* Festlegen der Architektur
+* Schaffung von Transparenz
+* Steuerung der Dienstleister
+* Kontrolle der Ziele
+* Berichten ans Management
+
+
+Besonders herausfordernd ist die Arbeit und Koordination mit vier (und mehr) verschiedenen Teams aus etlichen Ländern und Absprachen mit internationalen Business Bereichen. Eine besondere Herausforderung stellt die Kommunikation, Steuerung der Projektbeteiligten, sowie vor allem der zeitliche Druck, mit dem MVP an den Markt zu gehen, dar.
+(Erfahrungsgewinn: Projektanträge, Steuerung von vielen Teams verschiedener Bereiche, Berichten ans gehobene Management, GCP Cloud, React Native, Designs).
+
+
+	Direktvertrieb /                       E-Commerce 
+10/2021 – 12/2021
+	Projektleitung – Einführung eines CDN, WAF & ION                            bofrost*
+Für das international tätige Familienunternehmen bofrost* (Direktvertrieb Eis und Tiefkühlkost), in der Domäne Online Channels - E-Commerce Shop, Projektleitung und Koordination bei der Einführung eines Content Delivery Network und einer Web Application Firewall
+Meine Tätigkeiten umfassen:
+
+
+* Steuerung der Dienstleister
+* Konzept und Planung
+* Schaffung von Transparenz
+* Kontrolle der Ziele
+* Berichten ans Management
+
+
+(Erfahrungsgewinn: Akamai CDN &  WAP).
+
+
+	Direktvertrieb /                       E-Commerce 
+08/2020 – 02/2021
+	Ges. Projektleitung – SAP Cloud Commerce Migration                          bofrost*
+Für das international tätige Familienunternehmen bofrost* (Direktvertrieb Eis und Tiefkühlkost), in der Domäne Online Channels - E-Commerce Shop, auf Basis von SAP Hybris Übernahme der Gesamtprojektleitung: SAP Cloud Commerce Migration. Neue Lizenzverträge mit der SAP erfordern einen Umzug des SAP Hybris Commerce Systems in die SAP Commerce Cloud (CCV_2), welche eine gesamte Projektleitung und Koordination erfordert. Das Projektbudget ist mit ca. 1.4 Mio. veranschlagt.
+Meine Tätigkeiten umfassten:
+
+
+* Projektsteckbrief
+* Projektantrag
+* Konzept und Planung
+* Erstellen von Tickets (Fachkonzept)
+* Schaffung von Transparenz
+* Steuerung der Dienstleister
+* Kontrolle der Ziele
+* Berichten ans Management
+
+
+Besonders spannend ist die Arbeit und Absprache mit weiteren internationalen, externen Dienstleistern. Eine besondere Herausforderung stellt die Kommunikation, Steuerung der Projektbeteiligten, sowie die Koordination mit anderen davon abhängigen Projekten dar.
+
+
+(Erfahrungsgewinn: Projektanträge, Steuerung von internationalen Teams verschiedenen Bereiche, Berichten ans gehobene Management).
+
+
+	
+
+	
+
+	Direktvertrieb /   Social Selling 
+08/2018 – 02/2020
+	Senior Project Manager – Software as a Service       bofrost* / The Tasty Table
+Für ein Social Selling Project (The Tasty Table), des international tätige Familienunternehmens bofrost*, IT-seitige Beratung und Unterstützung, Dokumentation, Schaffung von Transparenz, Steuerung und Kontrolle.
+Meine Tätigkeiten umfassten:
+
+
+* Schaffung von Transparenz
+* Konzeption/ Einführung von neuen Funktionen mit dem Fachbereich und Drittdienstleistern
+* Beratung des Fachbereiches bei verschiedenen IT Themen
+* Erstellen von Tickets und Fachkonzepten 
+* Steuerung von Dienstleistern
+* Dokumentation 
+* Überprüfen der Ergebnisse
+* Wechsle des Dienstleisters
+* Weiteres Spin-Off (Injoy) auf Basis von SAP Hybris 
+
+
+Besonders spannend war die Arbeit und Absprache mit internen Fachbereichen sowie externen Anbietern. Eine besondere Herausforderung stellte die Kommunikation und Steuerung der Rumänische Dienstleistern dar.
+
+
+(Erfahrungsgewinn: SaaS, Beratung / Steuerung von verschiedenen Dienstleistern im engen Austausch mit Mitarbeitern des Fachbereiches).
+	
+
+Dienstleistung /           E-Commerce
+07/2017 – 01/2018
+	Senior Consultant                                                       Cassini Consulting AG
+Für die Deutsche Post AG, im Bereich Webshops - E-Commerce, auf Basis von J2EE Technologien (Oracle ATG), lagen meine Aufgabenschwerpunkte der Beratung.
+Meine Tätigkeiten umfassten:
+* Konzeption von neuen Funktionen mit dem Fachbereich des Kunden und Drittdienstleistern
+* Dokumentation & Erstellen von Fachkonzepten 
+* Steuerung von Dritt-Dienstleistern
+* Aufwandsschätzung
+* Überprüfen der Ergebnisse
+* Einführung von Git als neues Versionskontrollsystem
+* Analyse neuer möglicher IT Systemteile (Time Series Databases TSD) 
+* Analyse des Vergleiches verschiedener TSD 
+* Code Analyse und Qualitätssicherung
+* Durchführen des Merge Prozess
+* XSLT Transformationen 
+
+
+Besonders spannend war die Arbeit und Absprache mit weiteren externen Anbietern. Eine besondere Herausforderung stellte die Kommunikation und Steuerung der indischen Kollegen dar.
+
+
+(Erfahrungsgewinn: Steuerung von Drittdienstleitern, Konzeption, XSLT PDF POC, Analyse, Aufwandschätzung, Code Architektur – Quality, Mergen).
+	Telekommunikation / IT
+07/2017
+	Analyse                                                                                 Cassini Consulting AG 
+Für den Kunden Telefonica Analyse der bestehenden IT Landschaft anhand von Rekonstruktion auf Basis von Report, Excel Sheets, Interviews und Codeanalysen. Durch den Zukauf von verschiedenen Unternehmen hatte die IT den Überblick über ihre eigene IT-Landschaft verloren. 
+Meine Tätigkeiten umfassten:
+
+
+* Analyse 
+* Dokumentation
+
+
+Besonders spannend waren die Arbeit und Absprache mit dem Kunden, sowie die Herausforderung der Ähnlichkeit der verwendeten Kennziffern mit denen anderer Projekte. Das Projekt war kniffelig wie ein Sudoku-Spiel. 
+
+
+(Erfahrungsgewinn: Reports, Struktur des Unternehmens, KPI).
+	
+
+Einzelhandel /                     E-Commerce
+05/2016 – 03/2017
+	Beratung, Entwicklung                                         KPS AG (ehemals getit GmbH)
+Für einen Kunden mit Schwerpunkt Uhren und Juwelen (Christ), im Bereich E-Commerce, auf Basis von J2EE Technologien, lagen meine Aufgabenschwerpunkte in der Entwicklung.
+Meine Tätigkeiten umfassten:
+
+
+* Umsetzung diverser Features
+* Wartung und Support
+* Konzeption von neuen Funktionen 
+* Absprache mit dem Fachbereich des Kunden und Drittdienstleistern
+* Dokumentation 
+* Aufwandsschätzung
+
+
+Besonders spannend waren die Arbeit und Absprache mit einem weiteren externen Anbieter, sowie die gute Struktur des internen Teams. Eine besondere Herausforderung bestand in der Mischung verschiedener, sich zum Teil ausschließender Technologien und dem teilweise immer noch wichtigen Legacy Code. 
+
+
+(Erfahrungsgewinn: E-Commerce, Vertiefung SAP Hybris, Storefront, HMC, Cockpit, J2EE, 
+JSP und JSF, Eclipse, JavaScript, Tiles, Git, Mongo dB, PingDom).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Einzelhandel /           E-Commerce
+05/2015 – 04/2016
+
+
+	Beratung, Entwicklung                                                                          getit GmbH
+Für Europas größten Schuhhersteller (Deichmann) auf Basis von J2EE Technologien, SAP Hybris Support, Beratung und Entwicklung. 
+
+
+Dazu gehörten Aufgaben wie:
+
+
+* Migration und Fortführung eines Omni-Channel Projekts auf Basis von SAP Hybris auf über 40 Plattformen (verschiedene Shops auf einer Code Basis)
+* Erstellung einer API zur Anbindung eines externen Rating Systems (eKomi)
+* Korrektur von Bugs und Implementierung neuer Features
+* Qualitätssicherung, Testvorbereitung und Test 
+* Mitwirkung und Beratung in Kick-Off Veranstaltungen
+
+
+Die hohe Anzahl der Projektbeteiligten und die Vielzahl an Ländern, in denen die Plattform unterstützt wird, waren dabei eine besondere Herausforderung. Da man trotz der gemeinsamen Codebasis auf die verschiedenen Spezifika der Länder eingehen muss. 
+
+
+(Erfahrungsgewinn: E-Commerce, SAP Hybris, J2EE, JSP, Eclipse, JavaScript, Tiles, Git).
+	
+
+Finanzsektor /             IT-Finanzen
+08/2014 - 04/2015
+
+
+	Analyst, Consultant und Trainer                                                                 MT AG
+Für einen Kunden im Finanzsektor (IKB - KreDa) lagen meine Aufgaben im Bereich der Weiterentwicklung, der Beratung, Implementierung und des Coachings. 
+
+
+Dazu gehörten Aufgaben wie:
+ 
+* Dokumentation,  
+* Migration und Erweiterung der IKB – KreDa Anwendung, 
+* das Erstellen von Bug - POC und Einreichen bei Oracle
+* Erstellen und Halten von angepassten Schulungen auf der Basis von Oracle ADF. 
+(Erfahrungsgewinn: Oracle ADF, Finanzsektor, Schulungsaufgaben).
+
+
+	Telekommunikation / Sim Technologie Center
+12/2013 – 08/2014
+	Berater, Analyse & Entwicklung                                                                 MT AG
+Für Vodafone Global, Fachbereich Sim Technology Center (STC), war ich als Berater, Analyst und Applikationsentwickler tätig. Meine Primäraufgaben waren schwerpunktmäßig:
+
+
+Konsistenzüberprüfung, Entwicklung und Implementierung erfolgten mittels der Java Smartcard I/O API und Swing. Ergebnis war eine erweiterbare und wiederverwertbare API zur Kommunikation mit der SIM-Karte. Einen besonders hohen Stellenwert hatte das Erstellen einer möglichst einfachen Benutzeroberfläche für den Fachbereich (Kunden des Kunden und Tester). Eine besondere Herausforderung war die Low-Level Kommunikation (Senden von Bits und Bytes) mit einer SIM-Karte sowie der Analyse, Überprüfung und Umsetzung der GSM / SIM Spezifikationen und Überführung in eine „schöne Architektur“. Das Erkennen von Schwachpunkten auf einer SIM-Karte sollte möglichst flexibel sein und sich an den Möglichkeiten potentieller Hacker orientieren.
+(Erfahrungsgewinn: Java –Smartcard I/O API, Swing, Spezifikationen, SIM-Karten). 
+
+
+Details:
+1.Analyse von Services auf SIM-Karten (Entwicklung eines Tools zur Überprüfung des aktiven SIM-Services). 
+Ziel: Feststellung, welche Daten der SIM - Karten für Hacker einen Angriffspunkt bilden.
+2. Darüber hinaus Entwicklung eines Tools zum Scannen und Attackieren von aktiven TAR-Services auf SIM-Karten bezüglich Sicherheitslücken und Angriffsmöglichkeiten.
+Ziel: Erweiterung der Aufgabe zur Feststellung der Schwachpunkte bzgl. der Services auf der SIM-Karte.
+3. Datenanalyse des Telefonbuches auf der SIM-Karte; ggfs. Änderung dieser Vorbelegung sowie Durchführung von Integrationstests. 
+Ziel: Vereinfachte Toolnutzung für Datenanalyse und Datenänderung durch den Support.
+4. Erstellen mobiler Clients auf PhoneGap Basis. 
+Ziel: Toolentwicklung zum erleichterten Erfassen von Daten z.B. beim „Drive & Walk Test“-Tool zur Bestimmung der Netzqualität unter bestimmten Bedingungen. 
+(Erfahrungsgewinn: SIM Card I/O, SIM Hardware, Java, Swing).
+	
+
+ADF (Mobile) 
+Trainer, Coach Community member
+2012 – 2015
+	Oracle ADF Project Sessions, Community work, Oracle ADF mobile Schulung  MT AG / Oracle
+Aktive Teilnahme an der Oracle ADF Community und an der DOAG. Erstellen von Schulungsunterlagen und Abhalten von Oracle ADF Seminaren für Oracle und Partner. Interne und externe Schulungen, auch im Rahmen eines FH Ferienkurses. 
+Auf Wunsch von Vertretern der Oracle Community waren darauffolgende Pakete zur thematischen Schulung von ADF zu erstellen. Eine besondere Herausforderung stellte das Erstellen von Unterlagen dar, die von den „üblichen Oracle Schulungen“ abwichen und Anfänger sowie Fortgeschrittene gleichermaßen herausfordern sollten. 
+Meine Projekte Session konnte sehr gut in die Schulungsreihe als Paket integriert werden. Die Schulung Aktivitäten seitens Oracle werden fortgeführt und ich bin nach wie vor hierin involviert.
+Schulungsorte waren/sind Berlin, Bocholt, Düsseldorf, Frankfurt und Stuttgart. 
+
+
+(Erfahrungsgewinn: Oracle ADF mobile, Beehive, MS-Office, DOAG).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Finanzsektor /           IT Portale
+10/2013 – 11/2013
+	Ad-hoc / Vorrangiges Projekt                                                                    MT AG
+Für die Sparkasse Berlin wurde dringend ein Support zur Behebung von Bugs und zur Portlet (-weiter) -entwicklung und Migration auf Basis eines von der MT AG entwickelten J2EE Frameworks (MT GO) mit Anbindung an Liferay (& JBoss) angefordert. 
+Wesentlicher Bestandteil war das Zusammenführen verschiedener Entwicklungsstände, das „Fixen“ kleinerer Bugs und die Weiterentwicklung fehlender oder noch nicht spezifizierter Funktionen. 
+Die besondere Herausforderung des Projekts war der historische bedingte Ursprung mit Ressourcenmangel (Zeit, Personal), fehlender Dokumentation und wenig ausgeprägter Kommunikation nach einem Stillstand des Ursprungs Projektes durch interne Budgetkürzungen beim Kunden sowie ein schwieriger Migrationspfad.
+
+
+(Erfahrungsgewinn: JBoss, Liferay, JSF - Richfaces, EJB, Struts, Hibernate, SVN, MS-Office, Jira, VirtualBox, MySQL, OracleXE)
+
+
+	
+
+	POC / Schulung
+09/2013 – 10/2013
+	Beratung, Entwicklung & Analyse                                                            MT AG
+Vorbereitung interner Schulungen auf Basis eines abgeschlossenen Projekts mit Implementierung einer Anwendung auf Basis von Oracle ADF als Gegenüberstellung/Vergleich zu Oracle Apex.
+Innerhalb kürzester Zeit erfolgte die erfolgreiche Aufstellung einer entsprechenden Infrastruktur mit Hardware, Datenmodell und lauffähigen ADF Clients und zudem konnte ein sinnvolles POC abgewickelt werden. 
+Parallel dazu wurden die Projektdokumentation und die Oracle ADF Schulungsunterlagen erstellt.
+(Erfahrungsgewinn: Oracle Apex, Oracle JDeveloper, Oracle ADF, Oracle DB, VirtualBox, MS- Office, Open Office – Oracle WebCenter, Oracle Forms).
+
+
+	
+
+	Öffentlicher Dienst / IT - Colibri
+02/2013 – 09/2013
+	Beratung & Entwicklung                                                                            MT AG
+Für die Bundesagentur für Arbeit (BA Fachbereich: Colibri) in Nürnberg war ich verantwortlich für die Migration und Fortführung einer Studie (POC) auf der Basis von Oracle ADF. Hierzu gehörte die Erstellung weiterer Prototypen und des Grundgerüsts für die spätere Umsetzung, welche die vorhandenen Anwendungen der BA ersetzen sollten.
+Diese Projekttätigkeiten wurden durch Beratung zur Architektur, Konzeption und Aufwandsschätzung der Migration ergänzt. 
+Die erstellte Software soll später von 110.000 Arbeitsplätzen der Agentur genutzt werden können.
+Eine besondere Herausforderung stellte die Aufwandsschätzung in Höhe von mehreren Mannjahren, die Anbindung von Legacy Systemen und die Kommunikation innerhalb der Bundesagentur dar.  
+Die Anbindung der Legacy Systeme und Datenbanken war die umfangreichste und die größte Herausforderung bei diesem Kunden, da es galt exakt vorgeschriebenen gesetzlichen Rahmen und Vorschriften umzusetzen und dabei möglichst dynamisch auf veränderte Gesetzesgrundlagen eingehen zu können und entsprechende Validierungen durchzuführen. Alles unter besonderen Sicherheitsaspekten.
+Weitere Details:
+* Planung der Architektur und Anwendungen
+* Migration der Anwendung auf das aktuelle BADF der BA
+* Umsetzen von Use Cases anhand von Fachkonzepten
+* Gestalten der Oberfläche
+* Anbinden von Legacy Systemen (Formstation, CORBA)
+* Fortführen/ Pflege/ Erweiterung der Vorläufer-Studie 
+* Live Demos, Präsentation & Aufbereitung der Ergebnisse
+* Zielplanung, Aufwandsschätzung
+* Festlegung und Überprüfung von Prioritäten/Vorgehensweisen
+* Erstellung der Dokumentation
+* Entwicklung einzelner Programmteile und Schnittstellen 
+* Visuelle Aufbereitung und Anreicherung vorhandener Daten
+* Untersuchen und Nutzen diverser Frameworks und Techniken
+
+
+(Erfahrungsgewinn: Oracle ADF, WebLogic, AJAX, HTML, JavaScript, Java,             
+JDeveloper, Invaris Formstation, Corba, diverse Plug-ins, ActiveX, MS Office, SVN, CVS) 
+
+
+	
+
+	Stahlindustrie /          E-Commerce
+07/2011 - 12/2012 
+	Beratung & Entwicklung                                                                              MT AG
+Entwicklung und Bereitstellung neuer Webapplikationen für eine Niederlassung der Thyssenkrupp in den USA auf der Basis von J2EE Technologien. 
+Hierzu gehörten die Erstellung einer Anwendung zur Auftragsverfolgung, die Realisierung neuer Web-Anwendung zum Bereitstellen und zur Langzeitarchivierung von Qualitätszeugnissen sowie die Digitalisierung von Materialabrufen.
+Für die Überwachung des Prozesses „Datenbankpflege“ wurde das vorhandene Konzept angepasst, verfeinert und durch Erstellung eines Tools zur Anwendung umgesetzt. 
+Diese Projekttätigkeiten wurden durch Beratung und Konzeption für den deutschen, den europäischen und den US-amerikanischen Unternehmensbereich ergänzt. 
+Weitere Tätigkeiten umfassen die Betreuung, Wartung und Erweiterung vorhandener Anwendungen sowie die Entwicklung eines neuen Werkzeuges zur Verwaltung von Metadaten bestehender Anwendungen. 
+Eine besondere Herausforderung stellt die Migration dieser Anwendungen von OC4J nach WebLogic dar. 
+Die Digitalisierung von Materialabrufen ist die umfangreichste und die größte Herausforderung bei diesem Kunden, da es hier in enger Zusammenarbeit mit verschiedenen Fachbereichen, in einem zeitlich sehr engen Rahmen gilt, verschiedene komplexe, betriebswirtschaftliche Abläufe umzusetzen.
+
+
+Weitere Details:
+* Projektleitung inkl. Coaching, Führung, Schulung von Mitarbeitern
+* Zielplanung, Aufwandsschätzung
+* Festlegung und Überprüfung von Zielerreichungsgraden, Prioritäten
+und Vorgehensweisen inkl. Meilensteine
+* Planung der Architektur und Anwendungen
+* Ergänzung und Anpassung von Fachkonzepten
+* Auftragsverfolgung (USA), Lieferantenerklärung, Ressourcentool, 
+* Jobmonitor, Materialabruf Anwendung
+* Migration der Anwendungen
+* Pflege/ Erweiterung der Anwendungen
+* Erstellen einer internen Anwendung mit ADF
+* Live Demos, Präsentation & Aufbereitung der Ergebnisse
+* Erstellung der Dokumentation
+* Entwicklung einzelner Programmteile und Schnittstellen 
+* Visuelle Aufbereitung und Anreicherung vorhandener Daten
+* Untersuchen und Nutzen diverser Frameworks und Techniken
+
+
+(Erfahrungsgewinn: J2EE, JSP, ADF, Oracle DB, WebLogic, AJAX, HTML, CSS, 
+JavaScript, jQuery, Java, JDeveloper Eclipse, ANT, Jira, Struts, Tiles, Hibernate, iText, POI, diverse weitere Plug-ins, MS Office, Putty, CVS, SQL, VPD)
+
+
+	
+
+	IT-Dienstleister / Oracle ADF
+02/2011 
+	Forschung / Implementierung / Beratung                                                   MT AG
+Interne Umsetzung von Use Cases rund um das Thema ADF. Entwickeln von Fusion Applikationen und Portlets sowie Implementierung von ADF Mobile Demo Applikationen.
+Weitere Details:
+* Advanced Schulung ADF
+* Aufbau einer Infrastruktur (WebLogic Server, SVN Server, Artifactory) 
+* ADF Mobile Applikationen
+* ADF Fundamentals Kurs
+* Umsetzen diverser Use Cases (Portlets, ADF Mobile Applikationen, …)
+* Prototypen und Show Cases (jQuery mobile und JSP)
+* Untersuchen und Nutzen diverser Frameworks und Techniken
+* Live Demos, Präsentation & Aufbereitung der Ergebnisse
+* Anbindung an Datenbanken und Deployment auf Server
+* Grundlegende Konzepte und Vorgehen bei der Webentwicklung mit ADF
+* Halten interner und externer Schulungen sowie Präsentationen zum Thema Mobile Development
+* Zielplanung, Aufwandsschätzung
+* Repräsentation der MT AG in der ADF Community
+
+
+(Erfahrungsgewinn: Oracle ADF, Oracle DB, WebLogic, AJAX, HTML, CSS, XML, JavaScript, DOM, Java, Android SDK, Blackberry Komponenten, Windows Mobile, JDeveloper Eclipse, Aptana, Visual Studio, diverse Plug-Ins, MS Office, diverse Emulatoren, Debugger, Testtools und Simulatoren, Subversion, PhoneGap und J2EE)
+
+
+	Enterprise Content Management / IT
+03/2010 - 09/2010
+	Analyst & Entwickler / Bachelorand                                  d.velop AG / Student
+Bachelorarbeit: Effizienz und Zuverlässigkeitsprüfung von Frameworks zur Cross Plattform Anwendungsentwicklung für mobile Geräte (Smartphones). Herausstellen wesentlicher Plattformen; Feststellen von Gemeinsamkeiten/Unterschieden; Finden gemeinsamer Entwicklungsmöglichkeiten; Erstellen einer Abstraktionsschicht, Schnittstellen zu GWT; Umsetzen div. Use Cases (Verwendung von GPS, Kamera und weiterer); Präsentation & Aufbereitung der Ergebnisse.
+(Erfahrungsgewinn: PhoneGap, GWT, AJAX, HTML, CSS, XML, JavaScript, DOM, Java, SWT, Java2ME, ObjectiveC, Android SDK, iPhone SDK, Blackberry Komponenten, Nokia WRT, Windows Mobile 7, Eclipse, Aptana, Visual Studio, Dash Code, Xcode, diverse Plug-Ins, MS Office, diverse Smartphones, Debugger, Testtools & Simulatoren, Git Hub)
+
+
+	Enterprise Content Management / Software-Haus
+08/2008 - 09/2010
+	Wissenschaftliche Hilfskraft / Entwickler                          d.velop AG / Student
+Semantische Lesehilfe – Programm zur Verbesserung eines vorhandenen Ticketsystems
+* Coaching, Führung der beteiligten Studenten
+* Zielplanung, Aufwandsschätzung
+* Ideenfindung, Architektur / Beratung, Erstellung von Prototypen
+* Entwicklung einzelner Programmteile und Schnittstellen 
+* Visuelle Aufbereitung und Anreicherung vorhandener Daten
+* Untersuchen und Nutzen diverser Frameworks und Techniken
+* Durchführung von Projektbesprechungen 
+* Festlegung und Überprüfung von Zielerreichungsgraden / Prioritäten / Vorgehensweisen
+* Erstellung der Dokumentation
+* Aufbereitung und Präsentation der Ergebnisse
+(Erfahrungsgewinn: Swing, SWT, RMI, SOAP, Tag Clouds, Subversion (SVN), Maven, JUnit, UML, diverse Tools & Plug-Ins, MS Office, Mindmap, Lucene, XML, Kölner Phonetik, SoundEx, Web Services (web 2.0), Hibernate, Hibernate Search, JPA, FindBugs, d.3, Tickets)
+
+
+	
+
+CV Christof Kaller (2024)
